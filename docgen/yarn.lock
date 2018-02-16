@@ -4013,9 +4013,9 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-jstransformer-handlebars@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/jstransformer-handlebars/-/jstransformer-handlebars-1.0.0.tgz#076d05b4ec8b43b874729ac57e59f0eadfb011aa"
+jstransformer-handlebars@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/jstransformer-handlebars/-/jstransformer-handlebars-1.1.0.tgz#91ba56e0a28aee31bb56d4adbcbce508d8230468"
   dependencies:
     handlebars "^4.0.1"
 
